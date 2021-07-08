@@ -1,0 +1,11 @@
+{
+	"verson": "v1",
+	"port": 3000,
+	"mongodb": {
+		"host": "",
+		"port": 53584,
+		"username": "",
+		"password": "",
+		"dbname": ""
+	}
+}
